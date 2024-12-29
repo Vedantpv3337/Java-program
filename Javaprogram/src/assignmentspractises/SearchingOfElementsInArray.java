@@ -15,6 +15,15 @@ public class SearchingOfElementsInArray
 			if(a[i]==search_element)
 			{
 				System.out.println("Element Found");
+				
+				
+				
+				
+				
+				
+				
+				
+				
 				 status = true;
 				break;
 			}
@@ -22,6 +31,7 @@ public class SearchingOfElementsInArray
 		if(status == false)
 		{
 			System.out.println("Element Not Found");
+			
 		}
 
 	}
