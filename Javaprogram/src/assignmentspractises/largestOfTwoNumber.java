@@ -11,7 +11,7 @@ public class largestOfTwoNumber
 		int a=20,b=40;
 		
 		/*
-		if(a>b)
+		if(a>b) 
 		{
 			System.out.println("a is the largest number : "+a);
 		}
